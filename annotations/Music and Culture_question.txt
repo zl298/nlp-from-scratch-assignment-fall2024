@@ -1,0 +1,105 @@
+Who is the current Music Director of the Pittsburgh Symphony Orchestra?
+Where does the Pittsburgh Symphony Orchestra perform?
+Does the Pittsburgh Symphony Orchestra offer educational programs?
+What type of music does the Pittsburgh Symphony Orchestra perform?
+When will Chicago musical played in the Pittsburgh Symphony Orchestra?
+When was the Pittsburgh Symphony Orchestra founded?
+What are some major achievements of the Pittsburgh Symphony Orchestra?
+Who was the first woman to lead the Pittsburgh Symphony Orchestra, even if temporarily?
+What's the event held in Pittsburgh Symphony Orchestra on Dec 19?
+What's the event held in Pittsburgh Symphony Orchestra on Feb 7?
+Who will be playing piano in the event on Mar 19? 
+When was Pittsburgh Opera founded?
+Where does Pittsburgh Opera primarily perform?
+What was the first opera performed by Pittsburgh Opera?
+Who is the current Music Director of Pittsburgh Opera?
+What educational program is associated with Pittsburgh Opera?
+Who was the first General Director of Pittsburgh Opera?
+Who would show up at the Nov 12 event in Pittsburgh Opera?
+What's the event held in Pittsburgh Opera on Dec 19?
+When will the event on February 24 start?/Users/miaoyidi/Desktop/11711/RAG/raw_data/annotated data_music&culture/Music and Culture_answer.txt
+/Users/miaoyidi/Desktop/11711/RAG/raw_data/annotated data_music&culture/Music and Culture_question.txt
+What's the address of the Pittsburgh Opera?
+Who is the CEO of the Pittsburgh Cultural Trust?
+When was Pittsburgh Cultural Trust founded?
+Who is the founder of Pittsburgh Cultural Trust?
+Where are the events in Pittsburgh Cultural Trust usually held?
+What's the event held in Pittsburgh Cultural Trust on Dec 19?
+What's the address of Pittsburgh Cultural Trust?
+What are some of the key venues managed by the Pittsburgh Cultural Trust?
+What type of events does the Pittsburgh Cultural Trust host?
+What's the event held in Pittsburgh Cultural Trust on May 14, 2025?
+Where will the event held in Pittsburgh Cultural Trust on Nov 20, 2024?
+Who will be hosting the show in Pittsburgh Cultural Trust on Nov 14, 2024?
+Who founded the Carnegie Museums?
+When was the Carnegie Museum of Art established?
+When was the Andy Warhol Museum established?
+When was the Carnegie Science Center established?
+When was the Carnegie Museum of Natural History established?
+Where is the Andy Warhol Museum located?
+Where is the Carnegie Science Center located?
+Where is the Carnegie Museum of Natural History located?
+Where is the Carnegie Museum of Art located?
+What kind of collections can be found at the Carnegie Museum of Art?
+What's the event held in Carnegie Museum of Art on Nov 10?
+What's the event held in Carnegie Science Center on Nov 6?
+What's the price of Preschool semesters event held in Carnegie Science Center?
+What's the event held in Carnegie Museum of Natural History on Jan 13?
+When will the event held in Carnegie Museum of Natural History on Dec 14 start?
+What's the event held in The Andy Warhol Museum on Oct 18?
+When will the event held in The Andy Warhol Museum on Oct 18 start?
+When was the Heinz History Center founded?
+Who is the Heinz History Center named after?
+What's the address of Heinz History Center?
+Who is the director of Heinz History Center?
+When was Heinz History Center named the best history museum in America?
+What's the event held in Heinz History Center on Nov 6?
+When will the event held in Heinz History Center on Nov 3 start?
+What museums does Heinz History Center operate?
+What's the phone number contacting Fort Pitt Museum?
+What's the address of the Meadowcroft Rockshelter and Historic Village?
+When was the Frick Pittsburgh founded?
+Who is the founder of The Frick Pittsburgh?
+What's the address of The Frick Pittsburgh?
+What museums are included in the Frick?
+When did Frick Art Museum opened?
+When will the Car and Carriage Museum Guided Tour event start on Wednesday?
+On which days does the Car and Carriage Museum Guided Tour run?
+What's the price of admission to gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum?
+What's the end date of the event "Pittsburgh Builds Bridges" in the Frick Art Museum?
+What's the name of the event starts on March 1,2025 in the Frick Art Museum?
+When was American Jewish Museum founded?
+When did August Wilson African American Cultural Center open?
+When did Carnegie Science Center establish?
+Which neighborhood American Jewish Museum is in?
+What season does the Pittsburgh Food festival held?
+When will the Picklesburgh return?
+What's the theme of the Picklesburgh?
+When will the Pittsburgh Restaurant Week start this winter? 
+What's the end date of Pittsburgh Restaurant Week this winter? 
+What's the name of a food event related to the Taco?
+What's the name of a food event related to the Italian food?
+What type of festival is Little Italy Days?
+What's theme of ToonSeum?
+What's theme of University of Pittsburgh Dental Museum?
+What type of University of Pittsburgh Dental Museum is?
+What type of Soldiers and Sailors Memorial Hall and Museum is?
+What type of Stephen Foster Memorial Museum is?
+What type of Bicycle Heaven is?
+When was Mattress Factory founded?
+What is Banana Split Fest celebrating? 
+How often is the Banana Split Fest held?
+When will the Banana Split Fest be held in 2025?
+What type of art does the Pittsburgh Glass Center focus on?
+What's the name of school supporting the Miller ICA? 
+What's the name of the museum regraded as one of America's most colorful public art landmarks in Pittsburgh?
+Who is the architect of Stephen Foster Memorial?
+Which school is the Stephen Collins Foster Memorial housed in?
+What's the Architectural style of the Frick Fine Arts Building?
+Wood Street Galleries is a project of which organization?
+When was the Pittsburgh Center for the Arts established?
+How many classrooms are the Nationality Rooms grouped by?
+When was the Pittsburgh Theological Seminary established?
+Which school is the Elmer H. Grimm Sr. Pharmacy Museum housed in?
+Which neighborhood is the Children's Museum of Pittsburgh located in?
+When was the Clemente Museum founded?
