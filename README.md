@@ -81,7 +81,7 @@ This project focuses on building an end-to-end NLP system that performs data scr
    pip install -r requirements.txt
    ```
 2. **Run Data Scraping**:
-   - Use `scrape_data.py` to collect data from specified sources.
+   - Use `crawler.ipynb` to collect data from specified sources.
 3. **Load Data into Vectorbase**:
    - Run `load_vectorbase.py` to store data in Chroma vector database.
 4. **Launch the RAG System**:
