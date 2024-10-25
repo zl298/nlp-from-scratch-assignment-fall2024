@@ -9,7 +9,7 @@ All URLs need to be manually input into the scripts by creating variables that s
 
 In addition to scraping, we have processing code files that remove unnecessary or redundant words, which are often standard texts on websites (e.g., "About Us," "Register Now"). Due to the variety in HTML design, each website and even each subpage has its own default text. We have identified common patterns of such default texts and ensure they are removed from the datasets. Additionally, short or ambiguous words that might be clear in CSV files but confusing in text files are handled carefully. For instance, some websites categorize shows with genre labels like "family," but this can be ambiguous for language models when it appears as a single line. Therefore, these words are removed from the text files but retained in the event CSV files to maintain necessary information.
 
-Two R scripts are included: one for converting event text into structured CSV files and the other for conducting Inter-Annotator Agreement (IAA) analysis.
+Two R scripts are included: one for converting event text into structured CSV files and the other for conducting Inter-Annotator Agreement (IAA) analysis. The packages used are "tm" and "proxy".
 
 The script for converting event text organizes the extracted information into tables with columns like event name, time, and location, following the structure typically found on the original websites. For instance, if a website provides brief introductions to events, the corresponding table will have a column labeled "introduction."
 The IAA analysis script compares answers to randomly chosen questions from different datasets, calculating similarity scores and checking for accuracy, especially when the answers are numeric.
